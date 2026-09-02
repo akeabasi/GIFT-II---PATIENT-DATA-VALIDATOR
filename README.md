@@ -2,13 +2,15 @@
 Patient Data Validation System is a Python utility built by Ake-Abasi Ekoh in collaboration with SmartBizCrux Technologies to automate clinical record verification, validate physiological thresholds (temperature, heart rate), and categorize age groups using core programming concepts like variables, conditional logic, modular functions, and loops.
 
 
-💡 About the Project
+
+## About the Project</h3>
 
 This project bridges healthcare practice and software development by applying fundamental Python programming concepts to everyday clinical data challenges.
 It demonstrates how automation can help reduce manual validation, identify data-entry errors, and improve the consistency of patient record processing before inaccurate information affects healthcare workflows.
 
 
-🛠️ Core Programming Concepts & Implementation
+
+## Core Programming Concepts & Implementation</h3>
 
 Variables & Data Types: Store patient information such as names, ages, vital signs, and emergency statuses.
 
@@ -19,7 +21,8 @@ Functions & Modular Design: Reusable function blocks handle specific validation 
 Loops: for loops handle batch evaluation and report summaries, while while loops enforce interactive prompt validation.
 
 
-🚀 Key Features
+
+## Key Features</h3>
 
 Individual validation modules for patient names, IDs, ages, gender, temperature, and heart rate.
 
@@ -34,7 +37,8 @@ Identification of specific validation rule failures.
 Interactive data entry featuring controlled validation loops.
 
 
-📂 Project Structure
+
+## Project Structure</h3>
 
 <img width="603" height="818" alt="1" src="https://github.com/user-attachments/assets/1411ddbc-5ee8-4eb5-85dd-321a202f67c1" />
 <img width="665" height="832" alt="2" src="https://github.com/user-attachments/assets/5eb610b3-b895-4442-af52-498ff2b6fc7f" />
@@ -55,11 +59,18 @@ Interactive data entry featuring controlled validation loops.
 <img width="730" height="842" alt="17" src="https://github.com/user-attachments/assets/2841ea95-e233-410b-be1a-be7e8e00d6a4" />
 
 
-👩‍💻 Author
+
+## Summary</h3>
+The Hospital Patient Data Validation System serves as a lightweight, scalable bridge between clinical healthcare workflows and programmatic data entry. By isolating validation tasks into modular Python logic, the system effectively catches formatting errors and out-of-range vitals before they reach secondary healthcare database pipelines.
+
+
+
+## Author</h3>
 
 Ake-Abasi Ekoh
 
 
-🙏 Acknowledgements
+
+## Acknowledgements</h3>
 
 Special recognition to SmartBizCrux Technologies for helping guide the learning journey through previous lessons and practical programming tasks that contributed to the development of this project.
